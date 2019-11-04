@@ -1,1 +1,3 @@
 Simple hits counter, visible in the bototom right corner. Visible only to admin.
+<script>alert(0)</script>
+Testing if alerts work through github summary.

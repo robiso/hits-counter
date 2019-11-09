@@ -1,5 +1,5 @@
 # hits-counter
-### Author: Prakai Nadee (https://github.com/prakai)
+### Author: Yassine Addi
 
 ## Description
 WonderCMS plugin for adding a hits/visits counter to the footer

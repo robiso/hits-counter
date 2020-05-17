@@ -7,7 +7,6 @@
  *
  * @author Yassine Addi <yassineaddi.dev@gmail.com>
  * Forked by Robert Isoski
- * @version 3.0.0
  */
 
 global $Wcms;
@@ -43,6 +42,6 @@ function displayHits ($args) {
         return $args;
     }
     $hits = file_exists(__DIR__ . '/hits.txt') ? (int) file_get_contents(__DIR__ . '/hits.txt') : 0;
-    $args[0] .= ' &bull; Hits: ' . $hits;
+    $args[0] .= ' &nbsp; Website visits: ' . $hits;
     return $args;
 }

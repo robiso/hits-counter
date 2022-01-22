@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "hits-counter": {
+            "name": "Hits Counter",
+            "repo": "https://github.com/robiso/hits-counter/tree/master",
+            "zip": "https://github.com/robiso/hits-counter/archive/master.zip",
+            "summary": "Simple hits counter, visible in the bottom right corner. Visible only to admin.",
+            "version": "3.0.8",
+            "image": "https://raw.githubusercontent.com/robiso/hits-counter/master/preview.jpg"
+        }
+    }
+}
